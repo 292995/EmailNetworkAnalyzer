@@ -1,4 +1,4 @@
-```markdown
+
 # Email-Based Network Analysis for Organizational Connectivity
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
